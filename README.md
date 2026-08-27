@@ -28,7 +28,9 @@ Desarrollador Full Stack con más de 3 años de experiencia construyendo solucio
 
 ---
 
-### 📊 Estadísticas y Métricas
+<div align="center">
+  <img src="https://stats.justin0304.workers.dev/api?username=menarescsc&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
+</div>
 
 ### 📊 Actividad en GitHub
 
