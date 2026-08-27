@@ -30,9 +30,7 @@ Desarrollador Full Stack con más de 3 años de experiencia construyendo solucio
 
 ### 📊 Estadísticas y Métricas
 
-| Actividad General | Lenguajes Más Utilizados |
-| :---: | :---: |
-| [![Stats de Carlos](https://github-readme-stats.vercel.app/api?username=menarescsc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/menarescsc) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menarescsc&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/menarescsc) |
+[![Grafico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=menarescsc&theme=tokyo-night&hide_border=true)](https://github.com/menarescsc)
 
 <br>
 
