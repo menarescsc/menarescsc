@@ -28,10 +28,6 @@ Desarrollador Full Stack con más de 3 años de experiencia construyendo solucio
 
 ---
 
-<div align="center">
-  <img src="https://stats.justin0304.workers.dev/api?username=menarescsc&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-</div>
-
 ### 📊 Actividad en GitHub
 
 ![Commits](https://img.shields.io/badge/Commits-GitHub_Activity-512BD4?style=for-the-badge&logo=github)
