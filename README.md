@@ -30,13 +30,11 @@ Desarrollador Full Stack con más de 3 años de experiencia construyendo solucio
 
 ### 📊 Estadísticas y Métricas
 
-[![Grafico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=menarescsc&theme=tokyo-night&hide_border=true)](https://github.com/menarescsc)
+### 📊 Actividad en GitHub
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menarescsc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+![Commits](https://img.shields.io/badge/Commits-GitHub_Activity-512BD4?style=for-the-badge&logo=github)
+![GitHub Repositories](https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/menarescsc?style=for-the-badge&logo=github&label=Seguidores&color=239120)
 
 ---
 
